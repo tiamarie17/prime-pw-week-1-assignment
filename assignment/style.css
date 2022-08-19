@@ -1,6 +1,23 @@
 /* Give your page a fun background color */
+body {
+    background-color: lightSkyBlue;
+    color: black;
+    font-family: Avenir, Arial, sans-serif;
+    margin-right: 50px;
+    margin-left: 50px;
+}
 
 /* Make the header and footer a different color from the background */
+.header {
+    background-color: wheat;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.footer {
+    background-color: darkseagreen;
+    margin-right: 50px;
+    margin-left: 50px;
+}
 
 /* Align the h1 containing your name in the center of the header*/
 
